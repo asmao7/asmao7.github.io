@@ -3,7 +3,7 @@
 
 AUTHOR = 'Danger Doggo'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://asmao7.github.io/'
 
 PATH = 'content'
 
